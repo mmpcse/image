@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Lato, Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0 80px;
+    }
+
+    h1 {
+      display: block;
+      font-size: 28px;
+      font-weight: 900;
+      letter-spacing: 0.42px;
+      margin-top: 32px;
+      margin-bottom: 24px;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: 900;
+      letter-spacing: 1.5px;
+      margin-top: 32px;
+      margin-bottom: 24px;
+      text-transform: uppercase;
+    }
+
+    p {
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
+
+    a {
+      align-items: center;
+      color: #0f69af;
+      display: flex;
+      flex-direction: column;
+      font-weight: 900;
+      text-decoration: none;
+    }
+
+    main {
+      display: block;
+      max-width: 1400px;
+    }
+
+    .layout {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    section p {
+      margin-top: 0;
+      max-width: 550px;
+    }
+
+    .elevated-card {
+      background-color: #f9f9fd;
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
+      box-sizing: border-box;
+      padding: 32px 43px 29px 51px;
+      max-width: 400px;
+    }
+
+    .elevated-card h2 {
+      margin-top: 0;
+    }
+
+    .elevated-card p {
+      margin-bottom: 0;
+    }
+
+    ul {
+      align-items: center;
+      display: flex;
+      flex-wrap: wrap;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      margin-right: 50px;
+      margin-bottom: 20px;
+    }
+
+    img {
+      margin-bottom: 10px;
+      width: 60px;
+    }
+  </style>
+  <title>Unsupported Browser</title>
+<script >bazadebezolkohpepadr="2040664027"</script><script type="text/javascript" src="https://www.sigmaaldrich.com/akam/13/79a20c9a"  defer></script></head>
+<body>
+  <main>
+    <h1>Unsupported Browser</h1>
+    <div class="layout">
+      <section>
+        <p>You can no longer access sigmaaldrich.com using your current browser. Upgrade to a supported browser for an improved experience.</p>
+        <h2>Supported Browsers</h2>
+        <ul>
+          <li>
+            <a href="https://www.google.com/chrome/" title="Download Chrome browser">
+              <img src="/static/unsupported-browser/GoogleChromeLogo.svg" alt="Google Chrome logo" width="60px" height="60px" />
+              Chrome
+            </a>
+          </li>
+          <li>
+            <a href="https://www.microsoft.com/edge" title="Download Edge browser">
+              <img src="/static/unsupported-browser/MicrosoftEdgeLogo.svg" alt="Microsoft Edge logo" width="60px" height="60px" />
+              Edge
+            </a>
+          </li>
+          <li>
+            <a href="https://www.mozilla.org/en-US/firefox/browsers/" title="Download Firefox browser">
+              <img src="/static/unsupported-browser/FirefoxLogo.svg" alt="Mozilla Firefox logo" width="60px" height="60px" />
+              Firefox
+            </a>
+          </li>
+          <li>
+            <a href="https://www.apple.com/safari/" title="Download Safari browser">
+              <img src="/static/unsupported-browser/SafariLogo.svg" alt="Apple Safari logo" width="60px" height="60px" />
+              Safari
+            </a>
+          </li>
+        </ul>
+      </section>
+      <aside>
+        <div class="elevated-card">
+          <h2>Can't Update Your Browser?</h2>
+          <p>If you can't update your existing browser or install a new browser, contact your administrator.</p>
+        </div>
+      </aside>
+    </div>
+  </main>
+<noscript><img src="https://www.sigmaaldrich.com/akam/13/pixel_79a20c9a?a=dD03ZDZjMDFkODQxYzdjMjVhNDM1MTAzOGUwMzA3MWYxMWUxNjYxMjllJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+</html>
